@@ -8,9 +8,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/Q2h1Cg/dnsbrute/api"
-	"github.com/Q2h1Cg/dnsbrute/dns"
-	"github.com/Q2h1Cg/dnsbrute/log"
+	"github.com/dean2021/dnsbrute/api"
+	"github.com/dean2021/dnsbrute/dns"
+	"github.com/dean2021/dnsbrute/log"
 )
 
 const versionNumber = "2.0.1#20180301"

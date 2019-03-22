@@ -2,8 +2,7 @@ package api
 
 import (
 	"time"
-
-	"github.com/Q2h1Cg/dnsbrute/log"
+	"github.com/dean2021/dnsbrute/log"
 )
 
 // API 接口定义
